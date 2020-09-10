@@ -200,7 +200,7 @@
         }   //200k
 
 
-        if ($two00 > 0) {
+        if ($one00 > 0) {
             echo '<div class="normal">
                     <p class="col1">'.number_format(ONE_00).'</p>
                     <p class="col2">'.$one00.'</p>
@@ -209,7 +209,7 @@
                 <div class="clr"></div>';
         }  //100k
 
-        if ($two00 > 0) {
+        if ($five0 > 0) {
             echo '<div class="normal">
                     <p class="col1">'.number_format(FIVE_0).'</p>
                     <p class="col2">'.$five0.'</p>
@@ -218,7 +218,7 @@
                 <div class="clr"></div>';
         }   //50k
 
-        if ($two00 > 0) {
+        if ($two0 > 0) {
             echo '<div class="normal">
                     <p class="col1">'.number_format(TWO_0).'</p>
                     <p class="col2">'.$two0.'</p>
@@ -227,7 +227,7 @@
                 <div class="clr"></div>';
         }   //20k
 
-        if ($two00 > 0) {
+        if ($one0 > 0) {
             echo '<div class="normal">
                     <p class="col1">'.number_format(ONE_0).'</p>
                     <p class="col2">'.$one0.'</p>
@@ -236,7 +236,7 @@
                 <div class="clr"></div>';
         }  //10k
 
-        if ($two00 > 0) {
+        if ($five > 0) {
             echo '<div class="normal">
                     <p class="col1">'.number_format(FIVE).'</p>
                     <p class="col2">'.$five.'</p>
@@ -245,7 +245,7 @@
                 <div class="clr"></div>';
         }   //5k
 
-        if ($two00 > 0) {
+        if ($two > 0) {
             echo '<div class="normal">
                     <p class="col1">'.number_format(TWO).'</p>
                     <p class="col2">'.$two.'</p>
@@ -254,7 +254,7 @@
                 <div class="clr"></div>';
         }   //2k
 
-        if ($two00 > 0) {
+        if ($one > 0) {
             echo '<div class="normal">
                     <p class="col1">'.number_format(ONE).'</p>
                     <p class="col2">'.$one.'</p>
