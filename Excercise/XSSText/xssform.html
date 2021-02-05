@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>XSS Test</title>
+    <style>
+        input {
+            margin: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Please enter your first name:</h2>
+    <form action="xsstest.php" method="post">
+        <input type="text" name="fname"><br>Considering PHP
+        Security
+        CHAPTER 4 Considering PHP Security 377
+        <input type="submit" value="Submit name">
+    </form>
+</body>
+
+</html>

@@ -48,7 +48,6 @@
                         <p class="description"><span><?php echo $description ?></span></p>
                     </div>
 
-
                     <p class="id" id="border" style="width: 6%;"><?php echo $id ?></p>
 
 

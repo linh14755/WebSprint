@@ -59,7 +59,7 @@
                     </div>
                 </form>
             <?php
-        } else echo '<div class="title">Xóa thành công!</br> Click vào <a href="index1.php">đây</a> để về trang chủ! </div>';
+        } else echo '<div class="title">Xóa thành công!</br> Click vào <a href="index.php">đây</a> để về trang chủ! </div>';
             ?>
             </div>
     </div>
