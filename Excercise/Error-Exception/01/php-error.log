@@ -1,0 +1,2 @@
+[23-Feb-2021 12:32:06 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\test\Error-Exception\04.php on line 9
+[23-Feb-2021 12:32:06 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\test\Error-Exception\04.php on line 9
